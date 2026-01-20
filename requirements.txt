@@ -1,4 +1,5 @@
 editdistpy>=0.1.3
+psutil>=5.9.0  # For accurate memory monitoring in TUI
 
 # For testing
 importlib-resources>=6.3.2
